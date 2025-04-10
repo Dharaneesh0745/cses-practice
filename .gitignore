@@ -1,3 +1,3 @@
-cmake-build-debug
-test.exe
-test.cpp
+.cmake-build-debug
+.test.exe
+.test.cpp
