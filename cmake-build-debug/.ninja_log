@@ -1,0 +1,14 @@
+# ninja log v6
+15	931	7658784795209395	CMakeFiles/CSES.dir/main.cpp.obj	b7765089561c0699
+12	4455	7658789219700857	CMakeFiles/CSES.dir/CSES_-_Graphs/Counting_Rooms_.cpp.obj	c142520a3dae3104
+4583	4903	7658801137379147	Counting_Rooms.exe	8ebd0601613bccfc
+4302	4571	7659515575191729	Building_Teams.exe	21a9a5b8a255f4d5
+4	449	7659528250697994	build.ninja	96161283c4761569
+21	4982	7659170800608130	CMakeFiles/Labyrinth.dir/CSES_-_Graphs/Labyrinth.cpp.obj	b29b3511bfc41b05
+9	4264	7658789824354533	CMakeFiles/CSES.dir/CSES_-_Graphs/Counting_Rooms.cpp.obj	b37d7ff779ec1888
+9	939	7658790801617361	CMakeFiles/CSES.dir/test.cpp.obj	53e06016d6c5b3bb
+11	4582	7658801091661624	CMakeFiles/Counting_Rooms.dir/CSES_-_Graphs/Counting_Rooms.cpp.obj	d12b78917b4820f
+4982	5411	7659170850204566	Labyrinth.exe	7d68b9a038b8b66e
+9	4351	7659514436730346	CMakeFiles/Message_Route.dir/CSES_-_Graphs/Message_Route_.cpp.obj	8bb13b8acc2d8956
+4352	4639	7659514480151440	Message_Route.exe	5984149e8582d39f
+10	4301	7659515532277601	CMakeFiles/Building_Teams.dir/CSES_-_Graphs/Building_Teams_.cpp.obj	88ebe0b913c4a56e
