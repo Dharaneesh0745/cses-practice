@@ -23,3 +23,6 @@ add_executable(Round_Trip
 add_executable(Building_Roads
         "CSES - Graphs/Building_Roads .cpp")
 
+add_executable(Monsters
+        "CSES - Graphs/Monsters.cpp")
+
