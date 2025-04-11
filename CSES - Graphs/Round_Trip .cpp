@@ -6,7 +6,7 @@ int start = -1, last = -1;
 bool dfs(int node, int par, vector<int> &vis, vector<int> &parent, vector<vector<int>> &arr) {
     vis[node] = 1;
     for (auto i : arr[node]) {
-        // if (i == par) continue;
+        if (i == par) continue;
         if (vis[i]) {
             start = i;
             last = node;
