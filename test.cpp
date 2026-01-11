@@ -1,9 +1,14 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-    float a;
-    cin >>a;
-    cout <<fixed<< setprecision(2) << a << endl;
-    cout<<a;
-    return 0;
+
+void func(int n) {
+    if (n == 0) return;
+    cout << n << endl;
+    func(n-1);
+}
+
+int main() {
+    int n;
+    cin >> n;
+    func(n);
 }
